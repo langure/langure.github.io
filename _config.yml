@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 # Site settings
 # The title of your site
-title: Machine Learning Training Course for Text Emotion Detection
+title: Machine Learning Training for Text Emotion Detection
 
 # A brief description of your site
 description: Central hub and bookmark for the 17-week training course on Machine Learning with a focus on Natural Language Processing.
