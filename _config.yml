@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 # Site settings
 # The title of your site
-title: Machine Learning Training Course: Natural Language Processing
+title: Machine Learning Training Course for Text Emotion Detection
 
 # A brief description of your site
 description: Central hub and bookmark for the 17-week training course on Machine Learning with a focus on Natural Language Processing.
@@ -14,10 +14,6 @@ description: Central hub and bookmark for the 17-week training course on Machine
 # The URL of your site (optional)
 # e.g., https://username.github.io
 # url: "https://langure.github.io"
-
-# Optional: Link to your GitHub repository for the site
-github:
-  repository_url: https://github.com/langure/your-github-pages-repo # Replace 'your-github-pages-repo' with the actual name of *this* repository where the GitHub page is hosted
 
 # Optional: Author information
 # author:
