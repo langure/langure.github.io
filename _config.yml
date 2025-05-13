@@ -1,3 +1,30 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Site settings
+# The title of your site
+title: Machine Learning Training Course: Natural Language Processing
+
+# A brief description of your site
+description: Central hub and bookmark for the 17-week training course on Machine Learning with a focus on Natural Language Processing.
+
+# The base URL of your site (optional)
+# e.g., /my-course-site
+# baseurl: "/my-course-site"
+
+# The URL of your site (optional)
+# e.g., https://username.github.io
+# url: "https://langure.github.io"
+
+# Optional: Link to your GitHub repository for the site
+github:
+  repository_url: https://github.com/langure/your-github-pages-repo # Replace 'your-github-pages-repo' with the actual name of *this* repository where the GitHub page is hosted
+
+# Optional: Author information
+# author:
+#   name: Your Name
+#   email: your.email@example.com
+
+# Optional: Enable specific plugins (if needed and supported by theme/GitHub Pages)
+# plugins:
+#   - jekyll-seo-tag
+#   - jekyll-feed
